@@ -63,7 +63,7 @@
   
   <h3>Installation Steps: </h3>
   <ul>
-    <li>Clone or download the project in zip format</li>
+    <li>Clone or download the project in zip format.</li>
     <li>Create the database and the required tables, by using the hospital.sql file provided in the repository. </li>
     <li>Open the project using any Java development environment. </li>
     <li>In the main package Connector class, it will be required to change mysql username and password as per your machine which are given as parameters in getConnection method. </li>
